@@ -1,7 +1,6 @@
 # 1. Überschrift
-# 2. Überschrift
-
 Jetzt kommt noch ein Absatz hinzu.
 
+# 2. Überschrift
 
 Und noch was zu einem anderen Thema.
